@@ -1,0 +1,2 @@
+# railink_KNN
+in this project will use a knn. where knn in this project is a model that will classify various types of visitors who frequently visit the station based on the date and month entered by the user. The output that will be generated is in the form of a response whether or not the visitor is on a certain day using the train. the management team can take an action to increase revenue in the information obtained in this project.
